@@ -24,7 +24,7 @@ docs/site/
 Manifest.toml
 
 .DS_Store
-
+.CondaPkg
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
